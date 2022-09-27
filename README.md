@@ -4,6 +4,7 @@
 </div>
 
 ###
+
 <div align="center">
   <img src="https://icongr.am/simple/anaconda.svg?color=f6f6f6" height="40" width="50" alt="anaconda logo" />
   <img src="https://icongr.am/devicon/python-plain.svg?color=f6f6f6" height="40" width="50" alt="python logo" />
@@ -20,4 +21,5 @@
   <img src="https://icongr.am/simple/git.svg?color=f6f6f6&colored=false" height="40" width="52" alt="git logo"  />
   <img src="https://icongr.am/simple/visualstudiocode.svg?color=f6f6f6&colored=false" height="40" width="52" alt="vscode logo"  />
 </div>
+
 ###
