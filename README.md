@@ -1,6 +1,8 @@
 <div align="left">
   <img src="images/memoji_2.png" height="250" width="250" alt="memoji" />
-  <p><strong>text-align: center;</strong></p><p id="code"><code>./hello</code></p>p>
+</div>
+<div align="center">
+  <code>./hello</code>
 </div>
 
 <div align="center">
