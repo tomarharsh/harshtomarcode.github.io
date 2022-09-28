@@ -1,9 +1,7 @@
-<div align="left">
-  <img src="images/memoji_2.png" height="250" width="250" alt="memoji" />
-</div>
-<div align="center">
-  <code>./hello</code>
-</div>
+
+<img align="left" src="images/memoji_2.png" height="250" width="250" alt="memoji" />
+<h1 align="center"><code>./hello</code></h1>h1>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
