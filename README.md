@@ -1,4 +1,4 @@
-<p align="left">./hello</p>
+<code>./hello</code>
 
 <div align="left">
   <img src="images/memoji_2.png" height="300" width="300" alt="memoji" />
