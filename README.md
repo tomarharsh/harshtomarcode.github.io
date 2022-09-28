@@ -1,9 +1,9 @@
-<code>./hello</code>
-
 <div align="left">
-  <img src="images/memoji_2.png" height="300" width="300" alt="memoji" />
+  <img src="images/memoji_2.png" height="250" width="250" alt="memoji" />
+  <code>./hello</code>
 </div>
 
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
