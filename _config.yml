@@ -11,6 +11,6 @@ user_title: Data Scientist
 email: harshtomar.code@gmail.com
 twitter_username: HashMortar
 linkedin_username: tomarharsh
-github_username:  harshtomarcode
+github_username:  tomarharsh
 
 exclude: ['package.json', 'src' , 'node_modules']
