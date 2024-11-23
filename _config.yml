@@ -1,13 +1,13 @@
 # Site settings
-title: Harsh Tomar
+title: harsh tomar
 description: Jekyll Theme Minimal Resume
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://htomar.xyz"
 
 # User settings
-username: Harsh Tomar
+username: harsh tomar
 user_description: ./hello
-user_title: Data Scientist
+user_title: lead data scientist
 email: harshtomar.code@gmail.com
 twitter_username: HashMortar
 linkedin_username: tomarharsh
